@@ -3,7 +3,7 @@
 Let's create a tiny project. URL shortener - that takes any long URL and converts to a tiny URL.
 
 ## Download link
-(Chrome store)[https://chrome.google.com/webstore/detail/let-url-shortener/ifjknnhhaojihaomhlhpaelbbjniehma]
+[Chrome store](https://chrome.google.com/webstore/detail/let-url-shortener/ifjknnhhaojihaomhlhpaelbbjniehma)
 
 ## Video
 
